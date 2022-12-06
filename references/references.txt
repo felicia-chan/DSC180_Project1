@@ -1,0 +1,9 @@
+[1] Citeseer Dataset. DeepAI. (n.d.). Retrieved December 5, 2022, from https://deepai.org/dataset/citeseer 
+
+[2] Kipf, T., Welling, Max. (2017). Semi-Supervised Classification with Graph Convolutional Networks. International Conference on Learning Representations. https://doi.org/10.48550/arXiv.1609.02907 
+
+[3] Node classification. Node Classification - StellarGraph 1.0.0rc1 documentation. (n.d.). Retrieved December 5, 2022, from https://stellargraph.readthedocs.io/en/v1.0.0rc1/demos/node-classification/index.html
+
+[4] Schlichtkrull, M., Kipf, T. N., Bloem, P., van den Berg, R., Titov, I., & Welling, M. (2018). Modeling relational data with graph Convolutional Networks. The Semantic Web, 593–607. https://doi.org/10.1007/978-3-319-93417-4\_38
+
+[5] Zhang, S., Tong, H., Xu, J. et al. Graph convolutional networks: a comprehensive review. Comput Soc Netw 6, 11 (2019). https://doi.org/10.1186/s40649-019-0069-y
